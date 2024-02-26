@@ -1,0 +1,9 @@
+pyautogen==0.2.14
+openai
+pandas
+yfinance
+matplotlib
+streamlit
+chromadb
+tiktoken
+pypdf
